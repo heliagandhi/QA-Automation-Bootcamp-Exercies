@@ -27,3 +27,7 @@ Descriptions :
 ## Task 6
 Descriptions :
 - This task contains push tasks to this repository and create their README.md.
+
+## Task 7
+Descriptions :
+- Give screenshot of your jenkins And then upload to github as tugas7.jpg
