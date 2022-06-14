@@ -1,0 +1,6 @@
+yopmail\page\BasePage.class
+yopmail\page\HomePage.class
+yopmail\page\InboxPage.class
+yopmail\YopmailApplication.class
+yopmail\utils\Common.class
+yopmail\config\BaseWebYopmail.class

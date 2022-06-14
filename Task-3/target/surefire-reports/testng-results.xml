@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-14T04:19:53Z" name="Suite" finished-at="2022-06-14T04:20:14Z" duration-ms="21244">
+    <groups>
+    </groups>
+    <test started-at="2022-06-14T04:19:53Z" name="Test" finished-at="2022-06-14T04:20:14Z" duration-ms="21244">
+      <class name="saucedemo.SaucedemoApplication">
+        <test-method is-config="true" signature="openUrl()[pri:0, instance:saucedemo.SaucedemoApplication@5d43661b]" started-at="2022-06-14T04:19:53Z" name="openUrl" finished-at="2022-06-14T04:20:00Z" duration-ms="7399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method signature="FinishOrder()[pri:0, instance:saucedemo.SaucedemoApplication@5d43661b]" started-at="2022-06-14T04:20:00Z" name="FinishOrder" finished-at="2022-06-14T04:20:05Z" duration-ms="4448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FinishOrder -->
+        <test-method is-config="true" signature="close()[pri:0, instance:saucedemo.SaucedemoApplication@5d43661b]" started-at="2022-06-14T04:20:05Z" name="close" finished-at="2022-06-14T04:20:05Z" duration-ms="746" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="openUrl()[pri:0, instance:saucedemo.SaucedemoApplication@5d43661b]" started-at="2022-06-14T04:20:05Z" name="openUrl" finished-at="2022-06-14T04:20:09Z" duration-ms="3589" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method signature="Login()[pri:0, instance:saucedemo.SaucedemoApplication@5d43661b]" started-at="2022-06-14T04:20:09Z" name="Login" finished-at="2022-06-14T04:20:09Z" duration-ms="378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:saucedemo.SaucedemoApplication@5d43661b]" started-at="2022-06-14T04:20:09Z" name="close" finished-at="2022-06-14T04:20:10Z" duration-ms="687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="openUrl()[pri:0, instance:saucedemo.SaucedemoApplication@5d43661b]" started-at="2022-06-14T04:20:10Z" name="openUrl" finished-at="2022-06-14T04:20:13Z" duration-ms="2949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method signature="LoginFailed()[pri:0, instance:saucedemo.SaucedemoApplication@5d43661b]" started-at="2022-06-14T04:20:13Z" name="LoginFailed" finished-at="2022-06-14T04:20:13Z" duration-ms="353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginFailed -->
+        <test-method is-config="true" signature="close()[pri:0, instance:saucedemo.SaucedemoApplication@5d43661b]" started-at="2022-06-14T04:20:13Z" name="close" finished-at="2022-06-14T04:20:14Z" duration-ms="674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- saucedemo.SaucedemoApplication -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

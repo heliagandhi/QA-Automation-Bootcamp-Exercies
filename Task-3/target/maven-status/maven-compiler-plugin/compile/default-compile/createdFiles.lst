@@ -1,0 +1,8 @@
+saucedemo\page\BasePage.class
+saucedemo\page\CatalogPage.class
+saucedemo\page\CheckoutPage.class
+saucedemo\config\BaseWebSaucedemo.class
+saucedemo\page\LoginPage.class
+saucedemo\page\CartPage.class
+saucedemo\SaucedemoApplication.class
+saucedemo\utils\Utility.class

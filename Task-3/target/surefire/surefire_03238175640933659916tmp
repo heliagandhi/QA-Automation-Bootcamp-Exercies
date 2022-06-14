@@ -1,0 +1,7 @@
+#surefire_0
+#Tue Jun 14 11:19:47 WIB 2022
+basedir=D\:\\Bootcamp\\eclipse-workspace21\\Task-3
+user.dir=D\:\\Bootcamp\\eclipse-workspace21\\Task-3
+suiteXmlFile=saucedemo.xml
+env=stage
+localRepository=C\:\\Users\\HELLO\\.m2\\repository
