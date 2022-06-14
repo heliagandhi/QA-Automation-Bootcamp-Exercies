@@ -31,3 +31,11 @@ Descriptions :
 ## Task 7
 Descriptions :
 - Give screenshot of your jenkins And then upload to github as tugas7.jpg
+
+## Task 8
+Descriptions :
+- Jmeter test (upload file.jmx)
+1. Loadtest biasa
+2. Graphql
+3. DB loadtest
+4. Weighted load test
